@@ -4,15 +4,13 @@
 
 # SmartHome App
 
-### Projeto Mobile 📱 
+## Mobile Project 📱 
 
 ### Screenshot
-
 <img style="width: 100%" src="https://github.com/joaomiiiguel/SmartHome/blob/master/ScreenShot/ScreenShot.png">
 
-### Base do design:
+### Design model
 https://dribbble.com/shots/4585243-Smart-Home-App-Ui/attachments/1036679
 
-### 💻  Tecnologia usada
-
+### Technology used
 - [React Native](https://reactnative.dev)
